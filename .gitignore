@@ -1,0 +1,18 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build outputs
+build/
+dist/
+out/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Local workspace folders
+work/
+outputs/
