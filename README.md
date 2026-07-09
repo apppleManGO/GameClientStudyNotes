@@ -24,6 +24,7 @@
 | 05 | [new/delete](notes/cpp/05_new_delete.md) | 완료 |
 | 06 | [생성자/소멸자](notes/cpp/06_constructor_destructor.md) | 완료 |
 | 07 | [RAII](notes/cpp/07_raii.md) | 완료 |
+| 08 | [스마트 포인터](notes/cpp/08_smart_pointer.md) | 완료 |
 
 ### 면접 답변
 
