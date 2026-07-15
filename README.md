@@ -26,6 +26,7 @@
 | 07 | [RAII](notes/cpp/07_raii.md) | 완료 |
 | 08 | [스마트 포인터](notes/cpp/08_smart_pointer.md) | 완료 |
 | 09 | [const](notes/cpp/09_const.md) | 완료 |
+| 10 | [static](notes/cpp/10_static.md) | 완료 |
 
 ### 면접 답변
 
