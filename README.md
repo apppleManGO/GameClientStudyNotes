@@ -29,6 +29,7 @@
 | 10 | [static](notes/cpp/10_static.md) | 완료 |
 | 11 | [virtual 함수와 override](notes/cpp/11_virtual_override.md) | 완료 |
 | 12 | [순수가상함수와 추상 클래스](notes/cpp/12_pure_virtual_abstract.md) | 완료 |
+| 13 | [상속](notes/cpp/13_inheritance.md) | 완료 |
 
 ### 면접 답변
 
