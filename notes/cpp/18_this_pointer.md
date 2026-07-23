@@ -73,6 +73,18 @@ this = 현재 객체의 주소
 this->hp = 현재 객체의 hp
 ```
 
+정리하면 다음과 같습니다.
+
+```text
+player1.SetHp(100)
+-> this는 player1 객체의 주소를 가리킴
+
+player2.SetHp(50)
+-> this는 player2 객체의 주소를 가리킴
+```
+
+같은 멤버 함수 코드라도 `this`를 통해 어떤 객체의 멤버를 수정해야 하는지 구분할 수 있습니다.
+
 ## 언제 자주 쓰나
 
 `this`는 다음 상황에서 자주 볼 수 있습니다.
@@ -110,4 +122,3 @@ void SetHp(int hp)
 - `this`는 무엇을 가리킬까?
 - `this->hp = hp;`에서 왼쪽과 오른쪽 `hp`는 각각 무엇일까?
 - `player1.SetHp(100)`과 `player2.SetHp(50)`에서 `this`는 각각 무엇을 가리킬까?
-

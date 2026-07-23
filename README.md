@@ -34,7 +34,7 @@
 | 15 | [OOP 4대 원칙](notes/cpp/15_oop_principles.md) | 완료 |
 | 16 | [접근 지정자](notes/cpp/16_access_specifiers.md) | 완료 |
 | 17 | [클래스와 객체](notes/cpp/17_class_object.md) | 완료 |
-| 18 | [this 포인터](notes/cpp/18_this_pointer.md) | 진행 중 |
+| 18 | [this 포인터](notes/cpp/18_this_pointer.md) | 완료 |
 
 ### 면접 답변
 
