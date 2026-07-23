@@ -32,6 +32,7 @@
 | 13 | [상속](notes/cpp/13_inheritance.md) | 완료 |
 | 14 | [다형성](notes/cpp/14_polymorphism.md) | 완료 |
 | 15 | [OOP 4대 원칙](notes/cpp/15_oop_principles.md) | 완료 |
+| 16 | [접근 지정자](notes/cpp/16_access_specifiers.md) | 완료 |
 
 ### 면접 답변
 
