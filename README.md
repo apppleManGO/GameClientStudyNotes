@@ -31,6 +31,7 @@
 | 12 | [순수가상함수와 추상 클래스](notes/cpp/12_pure_virtual_abstract.md) | 완료 |
 | 13 | [상속](notes/cpp/13_inheritance.md) | 완료 |
 | 14 | [다형성](notes/cpp/14_polymorphism.md) | 완료 |
+| 15 | [OOP 4대 원칙](notes/cpp/15_oop_principles.md) | 완료 |
 
 ### 면접 답변
 
